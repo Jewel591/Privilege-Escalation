@@ -19,7 +19,9 @@
 下面直接演示使用方法:
 
 下载 `45010.c`:
-
+```
+wget https://github.com/Jewel591/Privilege-Escalation/blob/master/45010.c
+```
     
 
 先检查目标机上是否安装 gcc：
